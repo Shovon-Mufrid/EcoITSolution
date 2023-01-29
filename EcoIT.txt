@@ -1,0 +1,90 @@
+ECO IT SOLUTION
+
+smufrid
+$iHateMyLife@
+
+
+ecoit email>>>> info.ecoit@gmail.com
+			ecoit@1234
+urlbd email>>>> urlbdsolution@gmail.com
+			urlbd@1234
+
+
+QR>>>>	https://qrco.de/bdLHmU
+
+ECOIT COLOR CODE>>>> 096A61	27282C
+					096A61B5
+LG`	#EBF8ECFC	
+MG`	#61CE70
+MDG`	#0AA236
+DG 	#0F4A32  23835D
+Stadard	0F4A32D4
+Yellow		FFAB00
+BABDBAFC
+Hostiko
+
+envato>>>>>
+leahojyoung4
+123@gmail
+
+
+Content>>
+We bring together thorough Analysis, Research insight, Benchmarking data, Strategy, Implementation and Problem-solving methodologies. We help clients to improve performance and reduce risks and to improve the return on investment.
+
+
+https://www.llt-group.com/
+https://www.seattlewebdesign.com/
+https://www.lovageinc.com/
+https://visualwebz.com/
+https://fireart.studio/
+https://sumatosoft.com/
+https://caveni.com/
+https://orangesoftbd.com/bulk-sms/
+
+
+DEMO
+https://themeforest.net/item/maxhost-web-hosting-whmcs-and-corporate-business-wordpress-theme-with-woocommerce/15827691#
+
+http://layerdrops.com/insurwp/
+http://layerdrops.com/insurwp/home-dark/
+
+http://preview.themeforest.net/item/intech-it-solutions-company-wordpress-theme/full_screen_preview/31549691?_ga=2.157904380.776254037.1662450204-161611243.1659841627&_gac=1.48771796.1661321993.Cj0KCQjw9ZGYBhCEARIsAEUXITWdNx1Il-RYIl6hwU8AQjI28h_uaPqsP_u4c16HZCsuNcHzSUc8fMsaAohtEALw_wcB
+
+
+shovon mufrid
+$iLoveBlogging@100%
+
+
+Choosing the right career is  one of the most important decisions in our lives, with the wrong choices dramatically impacting income and growth potential. Therefore, a good choice of education that aligns with one's long-term career goals and matches one's interests and abilities is essential. In addition, an increasing number of career options, longer employment terms and the need for lifelong learning add to the importance of making the right choices at every stage of our lives.
+
+
+
+
+
+
+JUTE NEWS:
+
+https://www.fibre2fashion.com/
+https://www.ecotextile.com/
+https://textilefocus.com/
+https://www.textiletoday.com.bd/
+
+
+
+
+
+
+
+/** The name of the database for WordPress */
+define( 'DB_NAME', 'ecoit91_ecoitsolution' );
+/** Database username */
+define( 'DB_USER', 'ecoit91_eco_admin' );
+/** Database password */
+define( 'DB_PASSWORD', '&lrAEa3GnRO%' );
+/** Database hostname */
+define( 'DB_HOST', 'localhost' );
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8mb4' );
+/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );
+/**#@+
