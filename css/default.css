@@ -13,7 +13,7 @@
 .navbar-custom .navbar-nav li.active a,
 .footer-subscribe i:hover,
 .company-sub-menu li a:hover {
-    color: #a3c85e !important;
+    color: #23835D !important;
 }
 
 
@@ -36,7 +36,7 @@ button:focus {
 .back-to-top:hover,
 .social .social-icon:hover,
 #carouselExampleIndicators .carousel-indicators .active {
-    background-color: #a3c85e;
+    background-color: #23835D;
 }
 
 .btn-custom,
@@ -47,7 +47,7 @@ button:focus {
 .main-slider .flex-control-paging li a,
 #carouselExampleIndicators .carousel-control-prev span,
 #carouselExampleIndicators .carousel-control-next span  {
-    border-color: #a3c85e;
+    border-color: #23835D;
 }
 
 .btn-custom:hover,
@@ -77,8 +77,8 @@ button:focus {
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
 .open > .dropdown-toggle.btn-outline-custom {
-    border-color: #a3c85e;
-    background-color: #a3c85e;
+    border-color: #23835D;
+    background-color: #23835D;
     color: #ffffff;
 }
 
@@ -92,7 +92,7 @@ button:focus {
 .btn-custom-white:hover,
 .open > .dropdown-toggle.btn-custom-white {
     background-color: #ffffff;
-    color: #a3c85e;
+    color: #23835D;
 }
 
 .team-box-border {
@@ -113,8 +113,8 @@ button:focus {
 
 .bg-gradient-custom {
     background: #56ab2f;
-    background: -webkit-linear-gradient(to right, #56ab2f, #a3c85e, #56ab2f);
-    background: linear-gradient(to right, #56ab2f, #a3c85e, #56ab2f);
+    background: -webkit-linear-gradient(to right, #56ab2f, #23835D, #56ab2f);
+    background: linear-gradient(to right, #56ab2f, #23835D, #56ab2f);
 }
 
 .bg-navyblue {
